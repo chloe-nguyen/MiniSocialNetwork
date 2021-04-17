@@ -59,5 +59,3 @@ registered with third party as Google, Yahoo, etc
 3. Email: *chloenguyen1206@gmail.com*
 
 ### © 2020 by chloe-nguyen
-
-# MiniSocialNetwork
